@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GoldBag
+  - Goblin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Goblin
+  - Arrow
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: water
+    uniqueID: 1655286691
+    locked: 0
+  - name: ground
+    uniqueID: 2445645079
+    locked: 0
+  - name: land
+    uniqueID: 3548485701
+    locked: 0
+  - name: Resource
+    uniqueID: 2838859809
+    locked: 0
+  - name: goldbag
+    uniqueID: 380600441
+    locked: 0
+  - name: goblin
+    uniqueID: 4111653349
+    locked: 0
+  - name: house
+    uniqueID: 3216674193
+    locked: 0
+  - name: archer
+    uniqueID: 240425879
+    locked: 0
+  - name: arrow
+    uniqueID: 2230255373
+    locked: 0
